@@ -1,2 +1,27 @@
-# sigmoidal_datascience
-Meu portfólio de projetos de Data Science
+
+
+<p align="center">
+  <img src="banner.png" >
+</p>
+
+# Marcos Henrique
+<sub>*Future Data Scientist*</sub>
+
+I'm administrator, and post-graduate in administration. I want to change careers to data science. 
+
+**Background in:** Python
+
+**Links:**
+
+* [LinkedIn](https://www.linkedin.com/in/marcoshenriquec/)
+
+
+
+## Projetos:
+Veja os projetos publicados:
+
+* **Analisando os Dados do Airbnb:** 
+
+
+ 
+
