@@ -20,7 +20,7 @@ I'm administrator, and post-graduate in administration. I want to change careers
 ## Projetos:
 Veja os projetos publicados:
 
-* **Analisando os Dados do Airbnb:** 
+* **Analisando os Dados do Airbnb:** https://bit.ly/2YLf1KR
 
 
  
