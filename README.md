@@ -21,7 +21,6 @@ I'm administrator, and post-graduate in administration. I want to change careers
 Veja os projetos publicados:
 
 * **Analisando os Dados do Airbnb:** https://bit.ly/2YLf1KR
-* **Análise Violência no Rio de Janeiro:** https://bit.ly/3bBwOuf
 * **Análise Violência no Rio de Janeiro 01:** https://bit.ly/3r3W8PG
 * **Análise automotiva:** https://bit.ly/3e65YwW
 
