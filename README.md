@@ -24,6 +24,7 @@ Veja os projetos publicados:
 * **Análise Violência no Rio de Janeiro 01:** https://bit.ly/3r3W8PG
 * **Análise automotiva:** https://bit.ly/3e65YwW
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3cRh3kB
+* **Detectando Fraudes de Cartões de Crédito:** https://bit.ly/3uFC2NH
 
  
 
