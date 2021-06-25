@@ -26,6 +26,7 @@ Veja os projetos publicados:
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3cRh3kB
 * **Detectando Fraudes de Cartões de Crédito:** https://bit.ly/3uFC2NH
 * **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/2ShHfxp
+* **Avaliação Risco de Crédito:** https://bit.ly/2UHH8fr
 
  
 
